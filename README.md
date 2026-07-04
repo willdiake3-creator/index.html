@@ -64,8 +64,8 @@
     <div id="site-selection" class="site-buttons">
         <p>Login successful! Where would you like to go?</p>
         <!-- The links to your existing GitHub Pages -->
-        <button class="site-btn" onclick="redirectToSite('https://willdiake3-creator.github.io/TELC-B1-PRUFUNG-Test/')">Go to Telc B1 </button>
-        <button class="site-btn" onclick="redirectToSite('https://willdiake3-creator.github.io/TELC-B2-PRUFUNG-Test/')">Go to Telc B2 </button>
+        <button class="site-btn" onclick="redirectToSite('https://willdiake3-creator.github.io/TELC-B1-PRUFUNG-Test/')">Go to TELC B1</button>
+        <button class="site-btn" onclick="redirectToSite('https://willdiake3-creator.github.io/TELC-B2-PRUFUNG-Test/')">Go to TELC B2</button>
     </div>
 </div>
 
